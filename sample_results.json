@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "retrieved_standards": [
+      "IS 12269",
+      "IS 8112",
+      "IS 269",
+      "IS 8041",
+      "IS 6452"
+    ],
+    "latency_seconds": 0.018,
+    "expected_standards": [
+      "IS 12269"
+    ]
+  },
+  {
+    "id": 2,
+    "retrieved_standards": [
+      "IS 1786",
+      "IS 432-1",
+      "IS 9417",
+      "IS 12269",
+      "IS 8112"
+    ],
+    "latency_seconds": 0.001,
+    "expected_standards": [
+      "IS 1786"
+    ]
+  },
+  {
+    "id": 3,
+    "retrieved_standards": [
+      "IS 10262",
+      "IS 456",
+      "IS 12269",
+      "IS 8112",
+      "IS 4926"
+    ],
+    "latency_seconds": 0.001,
+    "expected_standards": [
+      "IS 10262"
+    ]
+  },
+  {
+    "id": 4,
+    "retrieved_standards": [
+      "IS 383",
+      "IS 2386-1",
+      "IS 6925",
+      "IS 432-1",
+      "IS 3370-1"
+    ],
+    "latency_seconds": 0.001,
+    "expected_standards": [
+      "IS 383"
+    ]
+  },
+  {
+    "id": 5,
+    "retrieved_standards": [
+      "IS 4926",
+      "IS 1343",
+      "IS 456",
+      "IS 3370-1",
+      "IS 2212"
+    ],
+    "latency_seconds": 0.001,
+    "expected_standards": [
+      "IS 4926"
+    ]
+  },
+  {
+    "id": 6,
+    "retrieved_standards": [
+      "IS 1489-1",
+      "IS 3812-1",
+      "IS 3812-2",
+      "IS 1489-2",
+      "IS 455"
+    ],
+    "latency_seconds": 0.001,
+    "expected_standards": [
+      "IS 1489-1"
+    ]
+  },
+  {
+    "id": 7,
+    "retrieved_standards": [
+      "IS 12330",
+      "IS 6452",
+      "IS 1489-1",
+      "IS 2386-5",
+      "IS 3466"
+    ],
+    "latency_seconds": 0.001,
+    "expected_standards": [
+      "IS 12330"
+    ]
+  },
+  {
+    "id": 8,
+    "retrieved_standards": [
+      "IS 2386-1",
+      "IS 383",
+      "IS 2386-4",
+      "IS 1199",
+      "IS 2386-5"
+    ],
+    "latency_seconds": 0.001,
+    "expected_standards": [
+      "IS 2386-1"
+    ]
+  },
+  {
+    "id": 9,
+    "retrieved_standards": [
+      "IS 456",
+      "IS 1343",
+      "IS 4926",
+      "IS 3370-1",
+      "IS 2395-1"
+    ],
+    "latency_seconds": 0.001,
+    "expected_standards": [
+      "IS 456"
+    ]
+  },
+  {
+    "id": 10,
+    "retrieved_standards": [
+      "IS 16714",
+      "IS 12089",
+      "IS 455",
+      "IS 6925",
+      "IS 3370-1"
+    ],
+    "latency_seconds": 0.001,
+    "expected_standards": [
+      "IS 16714"
+    ]
+  }
+]
